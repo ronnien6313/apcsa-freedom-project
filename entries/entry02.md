@@ -14,6 +14,13 @@ In APCSA, after deciding the tool and application I wanted to create, It was tim
 The function `onMouseDown()` is relatively simple as it does what the name states.
 
 
+#### getComponent()
+
+The function `getComponent()` gets the components of the object. Each object has multiple properties to it such as it's text or color and each of these properties are components.
+
+#### Opening a Panel
+
+
 
 
 [Previous](entry01.md) | [Next](entry03.md)
