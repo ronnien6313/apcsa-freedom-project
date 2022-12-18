@@ -19,7 +19,10 @@ The code I wrote also utilizes `getComponent<>()`. Without `getComponent()` I wo
 
 #### Opening a Panel
 
-Opening a panel was definitely much more complex compared to changing the color of a square. I first had to create both a `button` and a `panel`. 
+Opening a panel was definitely much more complex compared to changing the color of a square. I first had to create both a `button` and a `panel`. The `button` already had a built-in `onClick` function, this meant that I didn't need `onMouseDown()` at all. After creating the button and panel, I set the panel to be turned off at first.
+
+![image](https://user-images.githubusercontent.com/73479590/208309715-ccfc947b-a269-44af-83fd-a08fb70509a4.png)
+
 
 
 ### Engineering Design Process
