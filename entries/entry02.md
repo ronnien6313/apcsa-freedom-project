@@ -23,6 +23,13 @@ Opening a panel was definitely much more complex compared to changing the color 
 
 ![image](https://user-images.githubusercontent.com/73479590/208309715-ccfc947b-a269-44af-83fd-a08fb70509a4.png)
 
+The little box to the left of the word `Panel` is normally checked, but I turned it off so you can't see it in the beginning. My next step was to write the code to open the panel.
+
+![image](https://user-images.githubusercontent.com/73479590/208310033-4b18728e-92c3-4793-a8bf-25453112d8fb.png)
+![image](https://user-images.githubusercontent.com/73479590/208309997-68a86fa0-0a1c-4bf5-ad9e-384acc5f9eae.png)
+
+What this code does it basically checks if there is a panel object and if there is, make the panel visible again.
+
 
 
 ### Engineering Design Process
