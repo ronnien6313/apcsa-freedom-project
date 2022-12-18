@@ -28,9 +28,11 @@ The little box to the left of the word `Panel` is normally checked, but I turned
 ![image](https://user-images.githubusercontent.com/73479590/208310033-4b18728e-92c3-4793-a8bf-25453112d8fb.png)
 ![image](https://user-images.githubusercontent.com/73479590/208309997-68a86fa0-0a1c-4bf5-ad9e-384acc5f9eae.png)
 
-What this code does it basically checks if there is a panel object and if there is, make the panel visible again.
+What this code does it basically checks if there is a panel object and if there is, make the panel visible again. I had to attach these script onto the `button` so the when the button is clicked it will run the code.
 
+![image](https://user-images.githubusercontent.com/73479590/208310067-047f4ce1-1845-44fe-9edb-b1617dea2e64.png)
 
+Under the `onClick()` function, I set it to `PanelOpener.OpenPanel` because that is the name of the class and method of the function. I then have the `PanelOpener` script attached and the designated `Panel` I want to be opened by the button.
 
 ### Engineering Design Process
 
