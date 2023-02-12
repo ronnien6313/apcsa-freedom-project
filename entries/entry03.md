@@ -26,19 +26,26 @@ I then had to write the code to make the button interactable. Here is how I plan
 
     // Turn bulk on
         public void buttonClick (){
-        bulkOn.SetActive(true);
-        bulkOff.SetActive(false);
-        InitStat.determination = (int)(InitStat.determination * 1.1);
+        bulkOn.SetActive(true); // line 1
+        bulkOff.SetActive(false); // line 2
+        InitStat.determination = (int)(InitStat.determination * 0.9); // line 3
     }
     // Turn bulk off
     public void buttonClick(){
-        bulkOff.SetActive(true);
-        bulkOn.SetActive(false);
-        InitStat.determination = (int)(InitStat.determination * 0.9);
+        bulkOff.SetActive(true); // line 4
+        bulkOn.SetActive(false); // line 5
+        InitStat.determination = (int)(InitStat.determination * 1.1); // line 6
     }
-    
-    
+ 
 ```
+
+In order to use the variables that was written in our script, we had to attach the buttons we made onto the script through the `inspector`.
+
+![image](https://user-images.githubusercontent.com/73479590/218335926-ceacf75f-7222-4151-9a74-9d38eaa267d9.png)
+
+Writing the script wasn't that difficult. When the button is clicked in the red state, lines 1 to 3 run. `.SetActive()` basically either hides or reveal the object by using a boolean (`true` reveals it while `false` hides it). We set the `bulkOn` button to `true` because we are turning it on, while we set the `bulkOff` button to false. We then increase the determination since the user wants to do less exercises when bulking. This is then done in the reverse when turing bulk off (lines 4 to 6).
+
+
 
 
 
