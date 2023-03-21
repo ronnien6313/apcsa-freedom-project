@@ -17,6 +17,9 @@ I then created a new script called `transitionThing` that will act as the functi
 
 ![image](https://user-images.githubusercontent.com/73479590/226502444-bd539959-0446-45b4-8be4-aebb23047fc9.png)
 
+![image](https://user-images.githubusercontent.com/73479590/226742307-92c942d4-8652-4767-831e-d36270cbc585.png)
+
+
 I first made two variables, One to hold the text while the other will be the counter for the days. In the second image, since the game starts on day 1, we set the counter to 1. we then set `dayNum` to `"Day " + counter`. This will basically display `Day #` in the game, # denoting the current day number. The `buttonClick()` function then makes it so that when the `next day` button is pressed, the counter increases by 1, and the dayNum text is updated to the current day.
 
 The next thing I did was display the stats on the journal page. This part was pretty easy as all I had to do was create accessor methods and display them. I first created multiple accessor methods which got all the stats of the user. Here is the code for that:
