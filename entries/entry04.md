@@ -7,8 +7,10 @@ After creating the bulk button we wanted to implement the `next day` button. Whe
 
 ### Coding
 
-
+The first thing I did was create a `next day` button. I first imported the pixel art of the button I made and then created a `button`. The `nextday` button is extremely important since this button will change all the stats of the user. Here is how the button looks :
 ![image](https://user-images.githubusercontent.com/73479590/226502317-b4553641-0452-414f-9d8a-790912c970ea.png)
+
+
 ![image](https://user-images.githubusercontent.com/73479590/226502337-f7189c62-ee20-412e-b086-bd2df1d578e5.png)
 ![image](https://user-images.githubusercontent.com/73479590/226502392-bd16874d-843f-4476-bed4-0ea0ac492f77.png)
 ![image](https://user-images.githubusercontent.com/73479590/226502428-d3ce59b7-8e56-4ae4-b5ef-b335d3c502f2.png)
