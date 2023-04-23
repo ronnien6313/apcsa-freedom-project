@@ -22,9 +22,23 @@ The first thing I did was go into the `initStat` script to add `mood` variable. 
 ![image](https://user-images.githubusercontent.com/73479590/233855181-bfa9cf00-a5df-433e-99b3-9bb3b37abfdb.png)
 
 
-![image](https://user-images.githubusercontent.com/73479590/233855210-533808f7-b579-4aea-aa73-7b2b91c29b54.png)
+I then created a `moodChanger` script that will run everytime the `next week` button is pressed. I first created the variables I needed. A `string mood` variable to hold the current mood, a `player` variable so I can change the stats of the player, and an `array` of `moods` so I can randomize the moods each week.
+
+The constructor `moodChanger` will first randomly select a mood from the array with a random number generator and then set the `string mood` to whatever the mood chosen was. We then created a `changeMood()` method to actually change the stats of the `player`. In this method, we make it so if the `string mood` is equal to any of the words listed, it will change the `players` stats depending on it's determination. Before changing the determination, I made it so the determination can not go beyond `100` or go under `0`. This is because determination should be a stat out of `100` that will decide whether or not the player will do it's exercises. 
 
 ![image](https://user-images.githubusercontent.com/73479590/233855226-782e4709-4655-4040-b271-cce38127019e.png)
+
+After all this, I just run the code every time the `next week` button is pressed:
+
+![image](https://user-images.githubusercontent.com/73479590/233855210-533808f7-b579-4aea-aa73-7b2b91c29b54.png)
+
+### Engineering Design Process
+
+Right now, We have finished our MVP (Minimal Viable Product) which leaves us at EDP stage 6 or 7. We are currently making sure that everything in the game works and functions as intended. We then plan to add more functions in the game and fix / improve the code to make it more efficient.
+
+### Skills
+
+The skills I learned from this process are communication and creativity. I felt like communication was a big part in this process because we had to make sure everyone was doing the work they needed to do. This is because the MVP was due soon and we needed to fix all the mistakes in the code. I also learned creativity because I had to figure out what to add into the game and how I was going to implement it.
 
 
 
