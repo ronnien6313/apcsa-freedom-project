@@ -16,7 +16,11 @@ This is how it looked like.
 
 ![image](https://user-images.githubusercontent.com/73479590/233855129-f9ee6f49-9e3b-4e35-a583-716e54e43117.png)
 
+
+The first thing I did was go into the `initStat` script to add `mood` variable. This allows us to get the `mood` of the player.
+
 ![image](https://user-images.githubusercontent.com/73479590/233855181-bfa9cf00-a5df-433e-99b3-9bb3b37abfdb.png)
+
 
 ![image](https://user-images.githubusercontent.com/73479590/233855210-533808f7-b579-4aea-aa73-7b2b91c29b54.png)
 
