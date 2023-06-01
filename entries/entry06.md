@@ -43,6 +43,12 @@ Currently, we are at stage 8 of the engineering design process. It is the last s
 The skills that I have learned while creating the elevator pitch and delivering the presentation are creativity and organization. Creativity because we wanted to make our slides interesting and creating hooks were actually a lot harder than we thought. Organization because we had to decide how we wanted to organize our slides. We had a few troubles trying to figure out what we should start with and how we should end our presentation.
 
 
+### Soucres
+
+[slides](https://docs.google.com/presentation/d/11ajfFoeoqKRSPMX9b9ycLiQGgvxpchA8KAXkhBB1ST8/edit?usp=sharing)
+[notes](https://docs.google.com/document/d/1MuRs5Of21sTK5DHQ6e8kKju-QPXpbCacM1U0RGTJczM/edit?usp=sharing)
+
+
 
 [Previous](entry05.md) | [Next](entry07.md)
 
