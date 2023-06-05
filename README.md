@@ -20,22 +20,7 @@ Our app affects us Socially and Economically.
 
 It affects us Socially because people can become healthier if they learn how to Weight Train. If people become more enthusiastic about weight training, they can start exercising with their friends. As a result, it can create a much more healthy world where more people are fit. 
 
-Our app also affects us economically because weight training is also a type of job in itself. If people feel inspired by the game and start weight training, they could have the drive to become a fitness trainer themselves. However, if people deem that the game is sufficient in itself to help them weight train, it could also pose a problem where there is a lack of demand for fitness trainers. Less fitness trainers means less jobs for them. This shows that it can go both ways where we can get more trainers, but also less
-
-Global:
-
-
-
-Social:
-
-* Invididual - People can become healthier if they learn how to Weight Train.
-* Relationship - People can start Weight Training and train together
-* Culture - App can create more Weight Trainers
-
-Economic:
-
-* Jobs - Can help inspire people to become fitness trainers
-* Finance - Since it is a game that simulates weight training, it can also create competition for real life fitness trainers.
+Our app also affects us economically because weight training is also a type of job in itself. If people feel inspired by the game and start weight training, they could have the drive to become a fitness trainer themselves. However, if people deem that the game is sufficient enough to help them weight train, it could also pose a problem where there is a lack of demand for fitness trainers. Less fitness trainers means less jobs for them. This shows that it can go both ways where we can get more trainers, but also less.
 
 ---
 
