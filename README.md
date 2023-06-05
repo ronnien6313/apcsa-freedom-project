@@ -1,20 +1,41 @@
 # APCSA Freedom Project
-by X
+by Ronnie Ng
 
 ## Context
-The “Freedom Project” for APCSA is all about X. The purpose of this blog is to X.
+The “Freedom Project” for APCSA is all about creating an application that helps solve a problem in our world. The purpose of this blog is to write about my progress in creating this applicatsion with my partners.
 
 ## Content
-For my project, I am making X. This blog will walk through my process of independently studying X in order to make X.
+For my project, I am making a game called Weight Training Simulator. The purpose of this game is to simulate how Weight Training in real life by having a character that can alter its stats through their diet and exercises. This blog will walk through my process of independently studying Unity in order to make the simulator.
 
 ## Links
 
-Product
+Product : https://simmer.io/@Vegetable/weight-training-simulator 
 
-Presentation
+
+Presentation : https://docs.google.com/presentation/d/11ajfFoeoqKRSPMX9b9ycLiQGgvxpchA8KAXkhBB1ST8/edit?usp=sharing
 
 ## Implications
-X
+
+Our app affects us Socially and Economically.
+
+It affects us Socially because people can become healthier if they learn how to Weight Train. If people become more enthusiastic about weight training, they can start exercising with their friends. As a result, it can create a much more healthy world where more people are fit. 
+
+Our app also affects us economically because weight training is also a type of job in itself. If people feel inspired by the game and start weight training, they could have the drive to become a fitness trainer themselves. However, if people deem that the game is sufficient in itself to help them weight train, it could also pose a problem where there is a lack of demand for fitness trainers. Less fitness trainers means less jobs for them. This shows that it can go both ways where we can get more trainers, but also less
+
+Global:
+
+
+
+Social:
+
+* Invididual - People can become healthier if they learn how to Weight Train.
+* Relationship - People can start Weight Training and train together
+* Culture - App can create more Weight Trainers
+
+Economic:
+
+* Jobs - Can help inspire people to become fitness trainers
+* Finance - Since it is a game that simulates weight training, it can also create competition for real life fitness trainers.
 
 ---
 
